@@ -32,7 +32,7 @@ sono corretti ma per noi è importante capire il vostro approccio prima di scriv
 `Svolgimento`
 
 - Creo un ciclo for che stampera' i numeri da 1 a 100;
-- Verifico che il numero sia divisibile sia per 3 che per 5;
-- Verifico che il numero sia divisibile per 3;
-- Verifico che il numero sia divisibile per 5;
+- Verifico che il numero sia divisibile sia per 3 che per 5 e se lo e' stampo "FizzBuzz";
+- Verifico che il numero sia divisibile per 3 e se lo e' stampo "Fizz";
+- Verifico che il numero sia divisibile per 5 e se lo e' stampo "Buzz";
 - Se non lo e' stampo direttamente il numero per vederlo.
